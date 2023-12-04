@@ -11,3 +11,9 @@ git config --global core.autocrlf input --> si estas en MAC
 
 
 git add --> git hace seguimiento del archivo, pasa de U a A 
+
+
+git remote add origin https://github.com/daichav/PrimerRepositorio.git
+  git branch -M main
+  git push -u origin main
+  
